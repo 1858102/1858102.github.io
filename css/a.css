@@ -1,0 +1,58 @@
+@charset "utf-8";
+
+div{
+    margin: 1px;
+}
+
+.back{
+    background-image: url(../img/hitsuji.png);
+    background-size: 100px;
+    background-repeat: space;
+}
+
+.mask{
+    height: 100%;
+    background: rgba(255, 255, 255, 0.9)
+}
+
+
+#top{
+    margin-left: 70px;
+}
+
+.parple{
+    background-color: #eadbff;
+    border-radius: 20px;
+}
+
+.yellow{
+    background-color: #ffffcc;
+}
+
+.green{
+    background-color: #e5ffcc;
+}
+
+.blue{
+    background-color: #ccffff;
+}
+
+.blue2{
+    background-color: #cce5ff;
+}
+
+.green2{
+    background-color: #ccffcc;
+}
+
+.orange{
+    background-color: #ffe5cc;
+}
+
+ul{
+    list-style: circle;
+}
+
+a:hover{
+    font-size: 1.5em;
+}

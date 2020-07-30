@@ -1,0 +1,41 @@
+@charset "utf-8";
+
+div{
+    margin: 1px;
+}
+
+.back{
+    background-image: url(../img/hitsuji.png);
+    background-size: 100px;
+    background-repeat: space;
+}
+
+.mask{
+    height: 100%;
+    background: rgba(255, 255, 255, 0.9)
+}
+
+#top{
+    margin-left: 70px;
+}
+
+.pink{
+    background-color: #ffffc6;
+    border-radius: 20px;
+}
+
+ul{
+    list-style: circle;
+}
+
+.parple{
+    background-color: #efe0ff;
+}
+
+.green{
+    background-color: #e5ffcc;
+}
+
+a:hover{
+    font-size: 1.5em;
+}
